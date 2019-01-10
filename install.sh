@@ -94,6 +94,9 @@ echo "service fdfs_trackerd start" >> /etc/rc.local
 service fdfs_storaged start 
 echo "service fdfs_storage start" >> /etc/rc.d/rc.local
 
+# 6. test 
 #/usr/bin/fdfs_monitor /etc/fdfs/storage.conf
+# ehco "ok fds" >> /root/mytest.txt
+# /usr/bin/fdfs_upload_file /etc/fdfs/client.conf /root/mytest.txt 
 
 #####
