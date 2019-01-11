@@ -2,7 +2,7 @@
 
 # 一键自动安装FastDFS
 
-＃ automatic Installation FastDFS
+# automatic Installation FastDFS
 
 要用root身份进行
 
